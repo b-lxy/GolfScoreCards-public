@@ -1,6 +1,6 @@
 # OCR on Golf Score Cards
 
-Author: Xin Ying Leong (--index-url https://www.linkedin.com/in/blxy)
+Author: Xin Ying Leong (https://www.linkedin.com/in/blxy)
 
 This project builds a specialized OCR pipeline to extract handwritten scores from a single snapshot for subsequent score digitalization.
 Golf scores often include messy handwritting, superscripts and shapes, making it a challenge for the recognition of the main digit.
