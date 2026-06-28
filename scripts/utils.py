@@ -9,7 +9,7 @@ import cv2
 mpl.rcParams['pdf.fonttype'] = 42
 mpl.rcParams['ps.fonttype'] = 42
 
-from scripts.constants import PROJECT_ROOT
+from constants import PROJECT_ROOT
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 MODEL_REGISTRY = {
